@@ -1,1 +1,1 @@
-# ics235
+# ICS 235 (Machine Learning Methods) HWs
